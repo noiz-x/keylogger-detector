@@ -1,0 +1,14 @@
+{
+    "white_listed_programs": [
+        "gnome-shell",
+        "Xorg",
+        "python3"
+    ],
+    "auto_kill_programs": [
+        "suspicious_process_name"
+    ],
+    "kbd_names": [
+        "/dev/input/event0",
+        "/dev/input/event1"
+    ]
+}
